@@ -1,5 +1,5 @@
 # Olá, me chamo Arthur!
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil do GitHub 👋
 
 - 🔭 Estudo no <a href="https://videira.ifc.edu.br">IFC Câmpus Videira</a>
 - 🌱 Atualmente estou aprendendo Node.js ...
